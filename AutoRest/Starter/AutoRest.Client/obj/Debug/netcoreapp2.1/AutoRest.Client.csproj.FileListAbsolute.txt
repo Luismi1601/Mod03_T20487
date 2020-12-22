@@ -1,0 +1,15 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Sdk.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Sdk.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csproj.CopyComplete
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.genruntimeconfig.cache

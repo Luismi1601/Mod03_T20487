@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorAssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorTargetAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.genruntimeconfig.cache

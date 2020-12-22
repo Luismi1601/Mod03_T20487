@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\bin\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorAssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.RazorTargetAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\TestingHttpWithSwagger\Starter\obj\Debug\netcoreapp2.1\TestingHttpWithSwagger.Host.genruntimeconfig.cache

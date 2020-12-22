@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\bin\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorAssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.RazorTargetAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\ThrowHttpResponseException\Starter\obj\Debug\netcoreapp2.1\ThrowHttpResponseException.Host.genruntimeconfig.cache

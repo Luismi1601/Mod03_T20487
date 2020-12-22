@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorAssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorTargetAssemblyInfo.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.genruntimeconfig.cache

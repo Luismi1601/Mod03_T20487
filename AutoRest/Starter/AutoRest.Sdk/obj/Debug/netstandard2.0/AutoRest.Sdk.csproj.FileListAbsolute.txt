@@ -1,0 +1,9 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.pdb

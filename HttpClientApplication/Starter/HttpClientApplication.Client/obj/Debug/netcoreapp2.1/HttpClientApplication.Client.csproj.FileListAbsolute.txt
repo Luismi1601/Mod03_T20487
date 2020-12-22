@@ -1,0 +1,17 @@
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.deps.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.runtimeconfig.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.runtimeconfig.dev.json
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csprojAssemblyReference.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.AssemblyInfoInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.AssemblyInfo.cs
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csproj.CoreCompileInputs.cache
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.csproj.CopyComplete
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.dll
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.pdb
+C:\Curso\20487\Luismi\Tareas\Mod03\DemoFiles\HttpClientApplication\Starter\HttpClientApplication.Client\obj\Debug\netcoreapp2.1\HttpClientApplication.Client.genruntimeconfig.cache
